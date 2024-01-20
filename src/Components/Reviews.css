@@ -1,0 +1,9 @@
+
+  
+  .hr-tag{
+    height: 1px; /* Adjust the thickness by changing the pixel value */
+    background-color: #000; /* Optional: Set the color of the line */
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
